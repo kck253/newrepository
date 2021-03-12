@@ -65,7 +65,7 @@ const DATA = [
         </View>
     </View>
   );
-export default class Screen3 extends Component{
+export default class HomeScreen extends Component{
     render(){
         return(
             
